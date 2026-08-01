@@ -145,12 +145,21 @@ Small, but the kind of thing people actually come back to.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AryanMashalkar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=56D4DD&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&rank_icon=github" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanMashalkar&layout=compact&hide_border=true&bg_color=0D1117&title_color=56D4DD&text_color=C9D1D9&langs_count=8" alt="Top languages">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanMashalkar&theme=github_dark" alt="Profile summary">
+
+<br>
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AryanMashalkar&theme=github_dark" alt="Repos per language">
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AryanMashalkar&theme=github_dark" alt="Most commit language">
+
+<br>
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AryanMashalkar&theme=github_dark" alt="Stats">
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AryanMashalkar&theme=github_dark&utcOffset=5.5" alt="Productive time">
 
 <br><br>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanMashalkar&hide_border=true&background=0D1117&stroke=1A222C&ring=56D4DD&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="Streak">
+<img height="180" src="https://streak-stats.demolab.com/?user=AryanMashalkar&hide_border=true&background=0D1117&stroke=1A222C&ring=56D4DD&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="Streak">
 
 </div>
 
